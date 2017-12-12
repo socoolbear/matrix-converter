@@ -1,0 +1,23 @@
+{
+    "name": "bykim02/spec-converter",
+    "description": "product spec converte lib (between tab and json)",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bykim02",
+            "email": "bykim02@simplexi.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "SpecConverter\\": "src/" }
+    },
+    "autoload-dev": {
+        "psr-4": { "SpecConverter\\Tests\\": "tests/" }
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.4",
+        "friendsofphp/php-cs-fixer": "^2.8"
+    }
+}
