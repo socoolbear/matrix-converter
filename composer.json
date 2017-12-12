@@ -1,12 +1,12 @@
 {
     "name": "scoolbear/matrix-converter",
-    "description": "product spec converte lib (between tab and json)",
+    "description": "tab or json matrix string converter",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "bykim02",
-            "email": "bykim02@simplexi.com"
+            "name": "socoolbear",
+            "email": "socoolbear@gmail.com"
         }
     ],
     "autoload": {
