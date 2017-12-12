@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of Spec Converter Library.
+ * This file is part of Matrix Converter Library.
  *
  * (c) Kim Bong Yeon <bykim02@cafe24corp.com>
  *
@@ -20,7 +20,7 @@ declare(strict_types=1);
  * with this source code in the file LICENSE.
  */
 
-namespace SpecConverter;
+namespace MatrixConverter;
 
 class Converter
 {

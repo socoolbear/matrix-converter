@@ -11,10 +11,10 @@ declare(strict_types=1);
  * with this source code in the file LICENSE.
  */
 
-namespace SpecConverter\Test;
+namespace MatrixConverter\Test;
 
 use PHPUnit\Framework\TestCase;
-use SpecConverter\Converter;
+use MatrixConverter\Converter;
 
 /**
  * Test class for Converter.

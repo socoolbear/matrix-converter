@@ -11,10 +11,10 @@ declare(strict_types=1);
  * with this source code in the file LICENSE.
  */
 
-namespace SpecConverter\Tests;
+namespace MatrixConverter\Tests;
 
 use PHPUnit\Framework\TestCase;
-use SpecConverter\TabConverter;
+use MatrixConverter\TabConverter;
 
 /**
  * Test class for JsonConverter.

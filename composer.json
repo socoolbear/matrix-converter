@@ -10,10 +10,10 @@
         }
     ],
     "autoload": {
-        "psr-4": { "SpecConverter\\": "src/" }
+        "psr-4": { "MatrixConverter\\": "src/" }
     },
     "autoload-dev": {
-        "psr-4": { "SpecConverter\\Tests\\": "tests/" }
+        "psr-4": { "MatrixConverter\\Tests\\": "tests/" }
     },
     "require": {},
     "require-dev": {
