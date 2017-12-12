@@ -5,7 +5,7 @@ Tab Or Json spereated Matrix String Converter
 Getting started
 ----------------
 ```
-composer require scoolbear/matrix-converter
+composer require socoolbear/matrix-converter
 ```
 
 Example
